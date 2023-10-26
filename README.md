@@ -2,6 +2,14 @@
 
 ### First modifed
 
+## Ignored files
+**/terraform**
+1) Основной фолдер с тераформом /.terraform/ в репе
+2) Файлы с расширением .tfstate и .tfstate.*
+3) Файлы краш логов crash.log
+4) Файлы с переменными терраформа .tfvars
+5) Кэш перезаписываемых файлов ovveride.tf & etc
+6) Конфигурационные файлы terraform.rc & .terraformrc
 
 ## Getting started
 
