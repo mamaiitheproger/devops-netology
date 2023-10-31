@@ -2,6 +2,8 @@
 
 ### First modifed
 
+**Test line for 'fix'**
+
 ## Ignored files
 **/terraform**
 1) Основной фолдер с тераформом /.terraform/ в репе
